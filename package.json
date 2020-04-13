@@ -8,8 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "lodash": "^4.17.15",
     "next": "9.3.4",
+    "postcss-preset-env": "^6.7.0",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-feather": "^2.0.4",
+    "tailwindcss": "^1.2.0"
   }
 }
